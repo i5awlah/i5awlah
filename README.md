@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khawlah Alrashed</h1>
-<h3 align="center">A mobile developer from Saudi Arabia</h3>
+<h1 align="left">Hi 👋, I'm Khawlah Alrashed</h1>
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -9,7 +8,6 @@
 
 - 📫 How to reach me **Khawlah.m.alrashed@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
